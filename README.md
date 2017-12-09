@@ -1,2 +1,4 @@
-# matasano-cryptopals
-Solutions to the matasano cryptopals challenges
+cryptopals
+==========
+
+matasano cryptopals solutions 
